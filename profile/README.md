@@ -13,7 +13,7 @@ The "Better Enhanced/Extended TeaVM." This is a **clean-room JVM implementation 
 *   **Status:** Active Development
 *   **Purity:** 100% Rust logic (excluding WASM-bindgen requirements).
 
-### [WebCraft-RS](https://github.com/WebCraft-RS)
+### [WebCraft-RS](https://github.com/FerrumCraft/FerrumCraft-RS)
 The high-speed entry point. This repository functions as a specialized **downloader and starter** for the ecosystem. It manages Minecraft version manifests, handles asset orchestration, and bootstraps the betVM runtime.
 *   **Status:** Active Development
 *   **Purity:** 100% Rust Wasm (though as a website itself it has HTML, CSS, and JS)
